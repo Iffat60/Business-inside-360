@@ -1,1 +1,2 @@
 # Business-inside-360
+interactive Dashboard link : https://app.powerbi.com/view?r=eyJrIjoiMGIzZmI2YTAtOGUzNy00ZDk2LWE4OGEtN2ZmNTgyYWRmODYyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
